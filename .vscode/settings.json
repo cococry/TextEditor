@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "util.h": "c",
+        "gltext.h": "c",
+        "string.h": "c",
+        "subtexture.h": "c"
+    }
+}
